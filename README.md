@@ -9,3 +9,4 @@ Save cookies in Environment Variabel
 How to run:
 1. Install golang
 2. Build or Run with `go run .`
+3. Concurency just use loop and go routine in front of function
